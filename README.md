@@ -36,7 +36,6 @@ Installez les bibliothèques Python nécessaires via `pip` :
 ```bash
 pip install python-telegram-bot openai python-dotenv
 ```
-*(Note : Il est recommandé de le faire dans un environnement virtuel `venv`)*
 
 ### 4. Configuration des clés d'API
 Créez un fichier nommé exactement `.env` à la racine de votre dossier et ajoutez-y vos identifiants :
